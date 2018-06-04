@@ -1,0 +1,3 @@
+<connectstring>
+	 Data Source=.\SQLEXPRESS;Initial Catalog=QuanLyCuaHangAnUong;Integrated Security=True;
+</connectstring>
